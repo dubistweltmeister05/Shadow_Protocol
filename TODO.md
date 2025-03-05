@@ -172,15 +172,4 @@ enum ServerMode {
 
 _Remember: "Slow is smooth, smooth is fast." Build features methodically and test thoroughly._
 
-void display_banner(void) {
-printf("\033[0;32m"); // Green text
-printf(" ╔═══════════════════════════════════════════╗\n");
-printf(" ║ SHADOW PROTOCOL ║\n");
-printf(" ║ Tactical Server v1.0.0 ║\n");
-printf(" ╠═══════════════════════════════════════════╣\n");
-printf(" ║ [STATUS]: INITIALIZING ║\n");
-printf(" ║ [PORT]: 8080 ║\n");
-printf(" ║ [MODE]: SHADOW ║\n");
-printf(" ╚═══════════════════════════════════════════╝\n");
-printf("\033[0m"); // Reset color
-}
+
