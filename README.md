@@ -1,8 +1,11 @@
-# 🌑 Shadow Protocol
+╔═══════════════════════════════════════════════════════════════════════════╗
+║ S H A D O W P R O T O C O L ║
+║ Tactical-Grade HTTP Server v1.0 ║
+╚═══════════════════════════════════════════════════════════════════════════╝
 
-### A tactical-grade HTTP server implementation
+A lightweight, military-grade\* HTTP server implementation built from the ground up using Windows Sockets (Winsock2). This project demonstrates core networking concepts through a minimalist server that responds to incoming connections with a tactical acknowledgment.
 
-_"Bravo-6 to gold eagle actual. GOING DARK"_
+> \*Note: Not actually military-grade, but we can pretend!
 
 ## 📡 Overview
 
